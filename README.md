@@ -18,6 +18,6 @@ $ yarn start
 
 ## Links
 
-My Blog: https://www.timo-ernst.net
-My Twitter: https://www.twitter.com/timo_ernst
-On DEV: https://dev.to/timo_ernst
+- My Blog: https://www.timo-ernst.net
+- My Twitter: https://www.twitter.com/timo_ernst
+- On DEV: https://dev.to/timo_ernst
